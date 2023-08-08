@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 // Connect to the MongoDB database 'carearecamp_placementcell'
-mongoose.connect('mongodb://127.0.0.1/Authentication');
+mongoose.connect('mongodb://127.0.0.1/Authenticationpassportnew');
 
 // Get the default connection
 const db = mongoose.connection;

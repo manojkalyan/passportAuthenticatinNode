@@ -2,6 +2,7 @@ const User = require('../models/userSchema');
 const jwt = require('jsonwebtoken');
 const passwordmailer = require('../mailers/forgotpasswordMailer');
 const bcrypt = require('bcrypt');
+const moment = require('moment');
 const passport = require('passport');
 
 // Module to display the User Signup Page
@@ -96,7 +97,7 @@ module.exports.sendPasswordToEmail = async function (req, res) {
 
     // Generate a unique token with an expiration time of 5 minutes
     const secretKey = 'your_secret_key';
-    const token = jwt.sign({ id: populatedUser._id }, secretKey, { expiresIn: '2m' });
+    const token = jwt.sign({ id: populatedUser._id }, secretKey, { expiresIn: '120s' });
 
     // Construct the reset password link
     const resetPasswordLink = `http://localhost:7006/user/updatepage/${populatedUser._id}/${token}`;

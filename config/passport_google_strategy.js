@@ -6,9 +6,8 @@ const User = require('../models/userSchema');
 
 // Configure Passport to use Google OAuth2Strategy
 passport.use(new googleStrategy({
-  clientID: "198151143327-0ugahh9klvg5ltrerfdjjc6adgqg3e3e.apps.googleusercontent.com",
-  clientSecret: "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",
-  callbackURL: "http://localhost:7006/user/auth/google/callback"
+  clientID: "XXXXXXX",
+  clientSecret: "XXXXXXX",
 },
 async function(accessToken, refreshToken, profile, done) {
   try {

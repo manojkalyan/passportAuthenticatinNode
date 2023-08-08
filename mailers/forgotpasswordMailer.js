@@ -20,7 +20,7 @@ exports.newComment = (comment) => {
   // Send the email using the nodemailer transporter
   nodeMailer.transporter.sendMail(
     {
-      from: 'kalyan2001manoj@gmail.com', // Sender's email address
+      from: 'xxxx@gmail.com', // Sender's email address
       to: comment.email, // Recipient's email address
       subject: 'Reset Password Link', // Email subject
       html: `<p>Click the following link to reset your password: <a href="${resetPasswordLink}">${resetPasswordLink}</a></p>`, // Email content

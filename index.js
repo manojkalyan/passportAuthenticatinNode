@@ -5,7 +5,7 @@ const cookieParser = require('cookie-parser');
 const flash = require('connect-flash');
 const jwt = require('jsonwebtoken');
 const moment = require('moment');
-const port = 7006;
+const port = 7007;
 
 const db = require('./config/mongoose');
 const bcrypt = require('bcrypt');
