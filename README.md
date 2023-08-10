@@ -122,15 +122,30 @@ user-authentication-system/
 
 ![Screenshot (25)](https://github.com/manojkalyan/passportAuthenticatinNodejs/assets/70328306/e218c930-817d-426c-aa00-94661c37182e)
 
+# social Authentication image
+
+
+
+
+![Screenshot (26)](https://github.com/manojkalyan/passportAuthenticatinNodejs/assets/70328306/feabc383-5fb4-4b32-a56b-cee47ac84c4e)
+
 # link expire image
 
-![Screenshot (27)](https://github.com/manojkalyan/passportAuthenticatinNodejs/assets/70328306/b01b3039-9106-4f4e-b8dc-00a76189c913)
+
+
+
+![Screenshot (28)](https://github.com/manojkalyan/passportAuthenticatinNodejs/assets/70328306/f698fd0b-a370-4ed8-b154-bca45ca8bb77)
 
 # password encrypted image
 
 
 
-![Screenshot (29)](https://github.com/manojkalyan/passportAuthenticatinNodejs/assets/70328306/2c71b41c-ad9f-45d9-8a27-89fa9b6e8077)
+
+
+
+![Screenshot (29)](https://github.com/manojkalyan/passportAuthenticatinNodejs/assets/70328306/4bb1eb99-c047-41ea-a699-1b708313f65a)
+
+
 
 
 
