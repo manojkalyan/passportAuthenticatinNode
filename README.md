@@ -81,3 +81,57 @@ user-authentication-system/
 ├── package.json
 └── README.md
 
+
+# signup form image
+
+
+
+
+
+
+![Screenshot (19)](https://github.com/manojkalyan/passportAuthenticatinNodejs/assets/70328306/dca98327-428d-4d1b-984d-686040f00eae)
+
+
+
+
+
+![Screenshot (20)](https://github.com/manojkalyan/passportAuthenticatinNodejs/assets/70328306/e4734192-8fd4-4bc8-b06c-90ebd06accc7)
+
+
+# signin image
+
+![Screenshot (21)](https://github.com/manojkalyan/passportAuthenticatinNodejs/assets/70328306/488a0ab9-2450-41fc-9c99-cf7a6503cff9)
+# homepage image
+
+![Screenshot (22)](https://github.com/manojkalyan/passportAuthenticatinNodejs/assets/70328306/45e0153e-efd0-4afd-bf07-3d08dccaf4aa)
+
+
+# enter email to send mail image
+
+![Screenshot (23)](https://github.com/manojkalyan/passportAuthenticatinNodejs/assets/70328306/5c9457c5-6334-4c99-956d-5be24acaf641)
+
+# sent email image with link
+
+![Screenshot (24)](https://github.com/manojkalyan/passportAuthenticatinNodejs/assets/70328306/74eacc71-4d13-464c-80fa-8ef36b798f46)
+
+# reset password image
+
+
+
+
+
+![Screenshot (25)](https://github.com/manojkalyan/passportAuthenticatinNodejs/assets/70328306/e218c930-817d-426c-aa00-94661c37182e)
+
+# link expire image
+
+![Screenshot (27)](https://github.com/manojkalyan/passportAuthenticatinNodejs/assets/70328306/b01b3039-9106-4f4e-b8dc-00a76189c913)
+
+# password encrypted image
+
+
+
+![Screenshot (29)](https://github.com/manojkalyan/passportAuthenticatinNodejs/assets/70328306/2c71b41c-ad9f-45d9-8a27-89fa9b6e8077)
+
+
+
+
